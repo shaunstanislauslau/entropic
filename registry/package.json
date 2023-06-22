@@ -30,7 +30,7 @@
     "pacote": "~9.5.0",
     "pg": "~7.4.0",
     "redis": "^2.8.0",
-    "semver": "^6.0.0",
+    "semver": "^7.5.2",
     "ssri": "^6.0.1",
     "uuid": "~3.3.2",
     "validate-npm-package-name": "^3.0.0"
